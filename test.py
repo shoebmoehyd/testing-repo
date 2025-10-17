@@ -17,3 +17,14 @@ def test_calculator():
     assert divide(10, 2) == 5
     assert divide(5, 0) == "Error! Division by zero."
     print("All tests passed!")
+
+            # Test change at 9th June
+
+    # run the tests
+test_calculator()
+# simple calculator functions
+# with basic unit tests
+if __name__ == "__main__":
+    test_calculator()
+# simple calculator functions
+# with basic unit tests
